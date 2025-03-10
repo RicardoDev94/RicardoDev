@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Ricardo Brito
 
-**`Developer Web `**
+**`Developer Web Fullstack`**
 
 
 
